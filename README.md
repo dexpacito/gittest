@@ -1,2 +1,3 @@
 # gittest
-tesy
+first github repo slay
+Hello Odin!?
